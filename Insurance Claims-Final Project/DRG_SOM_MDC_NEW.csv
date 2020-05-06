@@ -1,0 +1,688 @@
+"","MSDRG","DRG_Desc","X3700.4000.PCCR_OR_and_Anesth_Costs","cluster","MDC","MDC_CAT_NAME","Operating.Room","Anesthesiology"
+"1",20,"Intracranial vascular procedures w PDX hemorrhage w MCC",21805.86556,"3",1,"BRAIN AND CNS",17314.02556,4491.84
+"2",21,"Intracranial vascular procedures w PDX hemorrhage w CC",15172.69733,"3",1,"BRAIN AND CNS",11563.334,3609.363333
+"3",22,"Intracranial vascular procedures w PDX hemorrhage w/o CC/MCC",9857.045,"1",1,"BRAIN AND CNS",7244.155,2612.89
+"4",23,"Cranio w major dev impl/acute complex CNS PDX w MCC or chemo implant",17395.6478,"3",1,"BRAIN AND CNS",14288.86364,3106.784167
+"5",24,"Cranio w major dev impl/acute complex CNS PDX w/o MCC",11151.28792,"1",1,"BRAIN AND CNS",9939.56125,1211.726667
+"6",25,"Craniotomy & endovascular intracranial procedures w MCC",21856.53765,"3",1,"BRAIN AND CNS",18308.77134,3547.766308
+"7",26,"Craniotomy & endovascular intracranial procedures w CC",20890.97407,"3",1,"BRAIN AND CNS",17578.93963,3312.034444
+"8",27,"Craniotomy & endovascular intracranial procedures w/o CC/ MCC",16731.3175,"3",1,"BRAIN AND CNS",13832.70706,2898.610441
+"9",28,"Spinal procedures w MCC ..................",24159.528,"3",1,"BRAIN AND CNS",19878.112,4281.416
+"10",29,"Spinal procedures w CC or spinal neurostimulators",19523.54614,"3",1,"BRAIN AND CNS",16741.61714,2781.929
+"11",30,"Spinal procedures w/o CC/MCC .........",17710.09467,"3",1,"BRAIN AND CNS",14956.21929,2753.875385
+"12",31,"Ventricular shunt procedures w MCC",14192.49,"3",1,"BRAIN AND CNS",11940.24,2252.25
+"13",32,"Ventricular shunt procedures w CC ....",11605.22929,"1",1,"BRAIN AND CNS",9843.064286,1762.165
+"14",33,"Ventricular shunt procedures w/o CC/ MCC",12810.12857,"1",1,"BRAIN AND CNS",10846.92857,1963.2
+"15",34,"Carotid artery stent procedure w MCC",10669.78,"1",1,"BRAIN AND CNS",9072.38,1597.4
+"16",35,"Carotid artery stent procedure w CC ..",15441.8575,"3",1,"BRAIN AND CNS",12925.9525,2515.905
+"17",36,"Carotid artery stent procedure w/o CC/MCC",12252.81333,"1",1,"BRAIN AND CNS",10238.94833,2013.865
+"18",37,"Extracranial procedures w MCC .........",15820.97333,"3",1,"BRAIN AND CNS",13502.98,2317.993333
+"19",38,"Extracranial procedures w CC ............",15102.21058,"3",1,"BRAIN AND CNS",12850.50429,2251.706296
+"20",39,"Extracranial procedures w/o CC/MCC",14323.75864,"3",1,"BRAIN AND CNS",12173.47485,2150.283788
+"21",40,"Periph/cranial nerve & other nerv syst proc w MCC",13141.00933,"3",1,"BRAIN AND CNS",11660.856,1480.153333
+"22",41,"Periph/cranial nerve & other nerv syst proc w CC or periph neurostim",13596.333,"3",1,"BRAIN AND CNS",11561.076,2035.257
+"23",42,"Periph/cranial nerve & other nerv syst proc w/o CC/MCC",26782.965,"3",1,"BRAIN AND CNS",22812.285,3970.68
+"24",52,"Spinal disorders & injuries w CC/MCC",2025.19,"1",1,"BRAIN AND CNS",2025.19,0
+"25",53,"Spinal disorders & injuries w/o CC/ MCC",0,"1",1,"BRAIN AND CNS",0,0
+"26",54,"Nervous system neoplasms w MCC ...",9604.175556,"1",1,"BRAIN AND CNS",8056.965556,1547.21
+"27",55,"Nervous system neoplasms w/o MCC",9362.217917,"1",1,"BRAIN AND CNS",7505.336667,1856.88125
+"28",56,"Degenerative nervous system disorders w MCC",2095.190833,"1",1,"BRAIN AND CNS",1366.9175,728.2733333
+"29",57,"Degenerative nervous system disorders w/o MCC",1921.584333,"1",1,"BRAIN AND CNS",1250.026,671.5583333
+"30",58,"Multiple sclerosis & cerebellar ataxia w MCC",0,"1",1,"BRAIN AND CNS",0,0
+"31",59,"Multiple sclerosis & cerebellar ataxia w CC",1595.783333,"1",1,"BRAIN AND CNS",1595.783333,0
+"32",60,"Multiple sclerosis & cerebellar ataxia w/o CC/MCC",3620.72,"1",1,"BRAIN AND CNS",882.32,2738.4
+"33",61,"Acute ischemic stroke w use of thrombolytic agent w MCC",0,"1",1,"BRAIN AND CNS",0,0
+"34",62,"Acute ischemic stroke w use of thrombolytic agent w CC",1747.49,"1",1,"BRAIN AND CNS",1747.49,0
+"35",63,"Acute ischemic stroke w use of thrombolytic agent w/o CC/MCC",0,"1",1,"BRAIN AND CNS",0,0
+"36",64,"Intracranial hemorrhage or cerebral infarction w MCC",5344.997596,"1",1,"BRAIN AND CNS",3974.793846,1370.20375
+"37",65,"Intracranial hemorrhage or cerebral infarction w CC",9368.088333,"1",1,"BRAIN AND CNS",7759.755,1608.333333
+"38",66,"Intracranial hemorrhage or cerebral infarction w/o CC/MCC",3032.903333,"1",1,"BRAIN AND CNS",1449.863333,1583.04
+"39",67,"Nonspecific cva & precerebral occlusion w/o infarct w MCC",0,"1",1,"BRAIN AND CNS",0,0
+"40",68,"Nonspecific cva & precerebral occlusion w/o infarct w/o MCC",0,"1",1,"BRAIN AND CNS",0,0
+"41",69,"Transient ischemia",0,"1",1,"BRAIN AND CNS",0,0
+"42",70,"Nonspecific cerebrovascular disorders w MCC",979.655,"1",1,"BRAIN AND CNS",979.655,0
+"43",71,"Nonspecific cerebrovascular disorders w CC",1611.47,"1",1,"BRAIN AND CNS",1014.67,596.8
+"44",72,"Nonspecific cerebrovascular disorders w/o CC/MCC",6761.92,"1",1,"BRAIN AND CNS",4801.36,1960.56
+"45",73,"Cranial & peripheral nerve disorders w MCC",1642.43,"1",1,"BRAIN AND CNS",1642.43,0
+"46",74,"Cranial & peripheral nerve disorders w/o MCC",2020.8925,"1",1,"BRAIN AND CNS",1307.1325,713.76
+"47",75,"Viral meningitis w CC/MCC",2025.19,"1",1,"BRAIN AND CNS",2025.19,0
+"48",76,"Viral meningitis w/o CC/MCC",3187.5,"1",1,"BRAIN AND CNS",1398.16,1789.34
+"49",77,"Hypertensive encephalopathy w MCC",1541.94,"1",1,"BRAIN AND CNS",1541.94,0
+"50",78,"Hypertensive encephalopathy w CC",0,"1",1,"BRAIN AND CNS",0,0
+"51",79,"Hypertensive encephalopathy w/o CC/ MCC",0,"1",1,"BRAIN AND CNS",0,0
+"52",80,"Nontraumatic stupor & coma w MCC",0,"1",1,"BRAIN AND CNS",0,0
+"53",81,"Nontraumatic stupor & coma w/o MCC",0,"1",1,"BRAIN AND CNS",0,0
+"54",82,"Traumatic stupor & coma, coma >= 1 hr w MCC",0,"1",1,"BRAIN AND CNS",0,0
+"55",83,"Traumatic stupor & coma, coma >= 1 hr w CC",489.005,"1",1,"BRAIN AND CNS",489.005,0
+"56",84,"Traumatic stupor & coma, coma >= 1 hr w/o CC/MCC",0,"1",1,"BRAIN AND CNS",0,0
+"57",85,"Traumatic stupor & coma, coma <1 hr w MCC",8814.936667,"1",1,"BRAIN AND CNS",7438.13,1376.806667
+"58",86,"Traumatic stupor & coma, coma <1 hr w CC",4302.46,"1",1,"BRAIN AND CNS",3150.05,1152.41
+"59",87,"Traumatic stupor & coma, coma <1 hr w/o CC/MCC",10482.70167,"1",1,"BRAIN AND CNS",8366.146667,2116.555
+"60",88,"Concussion w MCC",0,"1",1,"BRAIN AND CNS",0,0
+"61",89,"Concussion w CC",1305.15,"1",1,"BRAIN AND CNS",0,1305.15
+"62",90,"Concussion w/o CC/MCC",0,"1",1,"BRAIN AND CNS",0,0
+"63",91,"Other disorders of nervous system w MCC",6918.206154,"1",1,"BRAIN AND CNS",6039.636154,878.57
+"64",92,"Other disorders of nervous system w CC",1166.58875,"1",1,"BRAIN AND CNS",1166.58875,0
+"65",93,"Other disorders of nervous system w/o CC/MCC",4887.0975,"1",1,"BRAIN AND CNS",3356.78,1530.3175
+"66",94,"Bacterial & tuberculous infections of nervous system w MCC",5924.171429,"1",1,"BRAIN AND CNS",3448.201429,2475.97
+"67",95,"Bacterial & tuberculous infections of nervous system w CC",1568.32,"1",1,"BRAIN AND CNS",872.31,696.01
+"68",96,"Bacterial & tuberculous infections of nervous system w/o CC/MCC",1577.62,"1",1,"BRAIN AND CNS",1577.62,0
+"69",97,"Non-bacterial infect of nervous sys exc viral meningitis w MCC",2368.697143,"1",1,"BRAIN AND CNS",1964.697143,404
+"70",98,"Non-bacterial infect of nervous sys exc viral meningitis w CC",1604.335,"1",1,"BRAIN AND CNS",1604.335,0
+"71",99,"Non-bacterial infect of nervous sys exc viral meningitis w/o CC/MCC",1877.47,"1",1,"BRAIN AND CNS",887.75,989.72
+"72",100,"Seizures w MCC",2137.721429,"1",1,"BRAIN AND CNS",2137.721429,0
+"73",101,"Seizures w/o MCC",2717.715667,"1",1,"BRAIN AND CNS",1383.084,1334.631667
+"74",102,"Headaches w MCC",3032.475,"1",1,"BRAIN AND CNS",1952.55,1079.925
+"75",103,"Headaches w/o MCC",1904.557857,"1",1,"BRAIN AND CNS",1562.257857,342.3
+"76",113,"Orbital procedures w CC/MCC",14838.31333,"3",2,"EYE",12643.79,2194.523333
+"77",115,"Extraocular procedures except orbit",15824.284,"3",2,"EYE",13662.044,2162.24
+"78",116,"Intraocular procedures w CC/MCC",5791.596667,"1",2,"EYE",4634.286667,1157.31
+"79",121,"Acute major eye infections w CC/MCC",0,"1",2,"EYE",0,0
+"80",122,"Acute major eye infections w/o CC/ MCC",0,"1",2,"EYE",0,0
+"81",123,"Neurological eye disorders",882.32,"1",2,"EYE",882.32,0
+"82",124,"Other disorders of the eye w MCC",0,"1",2,"EYE",0,0
+"83",125,"Other disorders of the eye w/o MCC",671,"1",2,"EYE",671,0
+"84",129,"Major head & neck procedures w CC/ MCC or major device",25095.21714,"3",3,"EAR, NOSE & THROAT",21237.84714,3857.37
+"85",130,"Major head & neck procedures w/o CC/MCC",17714.92917,"3",3,"EAR, NOSE & THROAT",15151.50667,2563.4225
+"86",131,"Cranial/facial procedures w CC/MCC",13655.16667,"3",3,"EAR, NOSE & THROAT",11521.49667,2133.67
+"87",132,"Cranial/facial procedures w/o CC/ MCC",20475.92972,"3",3,"EAR, NOSE & THROAT",17750.42692,2725.5028
+"88",133,"Other ear, nose, mouth & throat O.R. procedures w CC/MCC",10661.84847,"1",3,"EAR, NOSE & THROAT",8976.56125,1685.287222
+"89",134,"Other ear, nose, mouth & throat O.R. procedures w/o CC/MCC",9281.489493,"1",3,"EAR, NOSE & THROAT",7814.501667,1466.987826
+"90",135,"Sinus & mastoid procedures w CC/ MCC",24228.41,"3",3,"EAR, NOSE & THROAT",20791.775,3436.635
+"91",137,"Mouth procedures w CC/MCC",6100.896667,"1",3,"EAR, NOSE & THROAT",5463.906667,636.99
+"92",138,"Mouth procedures w/o CC/MCC",6451.591667,"1",3,"EAR, NOSE & THROAT",5342.565,1109.026667
+"93",146,"Ear, nose, mouth & throat malignancy w MCC",606,"1",3,"EAR, NOSE & THROAT",0,606
+"94",147,"Ear, nose, mouth & throat malignancy w CC",3879.575,"1",3,"EAR, NOSE & THROAT",3175.025,704.55
+"95",149,"Dysequilibrium",3037,"1",3,"EAR, NOSE & THROAT",1825,1212
+"96",150,"Epistaxis w MCC",0,"1",3,"EAR, NOSE & THROAT",0,0
+"97",151,"Epistaxis w/o MCC",6098.775,"1",3,"EAR, NOSE & THROAT",4472,1626.775
+"98",152,"Otitis media & URI w MCC",0,"1",3,"EAR, NOSE & THROAT",0,0
+"99",153,"Otitis media & URI w/o MCC",2606.378462,"1",3,"EAR, NOSE & THROAT",1491.928462,1114.45
+"100",154,"Nasal trauma & deformity w MCC",2811.73,"1",3,"EAR, NOSE & THROAT",2811.73,0
+"101",155,"Nasal trauma & deformity w CC",1098.53,"1",3,"EAR, NOSE & THROAT",1098.53,0
+"102",156,"Nasal trauma & deformity w/o CC/ MCC",3593.65,"1",3,"EAR, NOSE & THROAT",2741.86,851.79
+"103",157,"Dental & Oral Diseases w MCC",3747.666667,"1",3,"EAR, NOSE & THROAT",3312.666667,435
+"104",158,"Dental & Oral Diseases w CC",2025.19,"1",3,"EAR, NOSE & THROAT",2025.19,0
+"105",159,"Dental & Oral Diseases w/o CC/MCC",1899.195,"1",3,"EAR, NOSE & THROAT",1549.37,349.825
+"106",163,"Major chest procedures w MCC",16365.56944,"3",4,"RESPIRATORY",13925.1025,2440.466944
+"107",164,"Major chest procedures w CC",16830.91264,"3",4,"RESPIRATORY",14344.95117,2485.961475
+"108",165,"Major chest procedures w/o CC/MCC",13110.72968,"3",4,"RESPIRATORY",11149.25447,1961.475208
+"109",166,"Other resp system O.R. procedures w MCC",11757.01467,"1",4,"RESPIRATORY",10078.86467,1678.15
+"110",167,"Other resp system O.R. procedures w CC",7530.002857,"1",4,"RESPIRATORY",6202.07,1327.932857
+"111",168,"Other resp system O.R. procedures w/o CC/MCC",9570.402885,"1",4,"RESPIRATORY",8142.3075,1428.095385
+"112",175,"Pulmonary embolism w MCC",5627.138333,"1",4,"RESPIRATORY",2762.093333,2865.045
+"113",176,"Pulmonary embolism w/o MCC",5406.51,"1",4,"RESPIRATORY",4079.87,1326.64
+"114",177,"Respiratory infections & inflammations w MCC",3207.345185,"1",4,"RESPIRATORY",2360.755185,846.59
+"115",178,"Respiratory infections & inflammations w CC",3293.379027,"1",4,"RESPIRATORY",2558.671754,734.7072727
+"116",179,"Respiratory infections & inflammations w/o CC/MCC",4332.469865,"1",4,"RESPIRATORY",3364.242593,968.2272727
+"117",180,"Respiratory neoplasms w MCC",4011.055833,"1",4,"RESPIRATORY",3447.009167,564.0466667
+"118",181,"Respiratory neoplasms w CC",5145.348889,"1",4,"RESPIRATORY",4539.338889,606.01
+"119",182,"Respiratory neoplasms w/o CC/MCC",2217.33,"1",4,"RESPIRATORY",2217.33,0
+"120",183,"Major chest trauma w MCC",4634.69,"1",4,"RESPIRATORY",3904,730.69
+"121",184,"Major chest trauma w CC",3345.15,"1",4,"RESPIRATORY",3345.15,0
+"122",185,"Major chest trauma w/o CC/MCC",0,"1",4,"RESPIRATORY",0,0
+"123",186,"Pleural effusion w MCC",2954.989608,"1",4,"RESPIRATORY",2263.042941,691.9466667
+"124",187,"Pleural effusion w CC",2883.756667,"1",4,"RESPIRATORY",2331.53,552.2266667
+"125",188,"Pleural effusion w/o CC/MCC",2851.118,"1",4,"RESPIRATORY",2225.898,625.22
+"126",189,"Pulmonary edema & respiratory failure",4101.833857,"1",4,"RESPIRATORY",3024.581,1077.252857
+"127",190,"Chronic obstructive pulmonary disease w MCC",3289.201667,"1",4,"RESPIRATORY",2549.201667,740
+"128",191,"Chronic obstructive pulmonary disease w CC",2654.265,"1",4,"RESPIRATORY",851.485,1802.78
+"129",192,"Chronic obstructive pulmonary disease w/o CC/MCC",160.88,"1",4,"RESPIRATORY",160.88,0
+"130",193,"Simple pneumonia & pleurisy w MCC",2962.697222,"1",4,"RESPIRATORY",2170.782222,791.915
+"131",194,"Simple pneumonia & pleurisy w CC",2111.564333,"1",4,"RESPIRATORY",1342.561,769.0033333
+"132",195,"Simple pneumonia & pleurisy w/o CC/ MCC",171.87,"1",4,"RESPIRATORY",171.87,0
+"133",196,"Interstitial lung disease w MCC",3775,"1",4,"RESPIRATORY",2967,808
+"134",197,"Interstitial lung disease w CC",2882.02,"1",4,"RESPIRATORY",1604.1,1277.92
+"135",198,"Interstitial lung disease w/o CC/MCC",0,"1",4,"RESPIRATORY",0,0
+"136",199,"Pneumothorax w MCC",3403.795,"1",4,"RESPIRATORY",2578.171667,825.6233333
+"137",200,"Pneumothorax w CC",5319.318,"1",4,"RESPIRATORY",3505.128,1814.19
+"138",201,"Pneumothorax w/o CC/MCC",4328.695,"1",4,"RESPIRATORY",3731.895,596.8
+"139",202,"Bronchitis & asthma w CC/MCC",2492.58,"1",4,"RESPIRATORY",1814.77,677.81
+"140",203,"Bronchitis & asthma w/o CC/MCC",0,"1",4,"RESPIRATORY",0,0
+"141",204,"Respiratory signs & symptoms",2819.445,"1",4,"RESPIRATORY",2439.445,380
+"142",205,"Other respiratory system diagnoses w MCC",4290.131333,"1",4,"RESPIRATORY",3681.038,609.0933333
+"143",206,"Other respiratory system diagnoses w/o MCC",7047.586071,"1",4,"RESPIRATORY",5353.188571,1694.3975
+"144",207,"Respiratory system diagnosis w ventilator support 96+ hours",6843.242778,"1",4,"RESPIRATORY",4860.102778,1983.14
+"145",208,"Respiratory system diagnosis w ventilator support 96 hours",3678.512143,"1",4,"RESPIRATORY",2154.607143,1523.905
+"146",215,"Other heart assist system implant ......",43012.84,"2",5,"HEART & CIRCULATORY",29984.76,13028.08
+"147",216,"Cardiac valve & oth maj cardiothoracic proc w card cath w MCC",28785.72125,"3",5,"HEART & CIRCULATORY",24429.1225,4356.59875
+"148",217,"Cardiac valve & oth maj cardiothoracic proc w card cath w CC",30720.2725,"3",5,"HEART & CIRCULATORY",26080.68125,4639.59125
+"149",218,"Cardiac valve & oth maj cardiothoracic proc w card cath w/o CC/MCC",26216.54083,"3",5,"HEART & CIRCULATORY",22294.49333,3922.0475
+"150",219,"Cardiac valve & oth maj cardiothoracic proc w/o card cath w MCC",29743.47279,"3",5,"HEART & CIRCULATORY",25361.24088,4382.231912
+"151",220,"Cardiac valve & oth maj cardiothoracic proc w/o card cath w CC",23367.50169,"3",5,"HEART & CIRCULATORY",19831.22614,3536.275542
+"152",221,"Cardiac valve & oth maj cardiothoracic proc w/o card cath w/o CC/MCC",22151.47303,"3",5,"HEART & CIRCULATORY",18408.46758,3743.005455
+"153",222,"Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC",1038.31,"1",5,"HEART & CIRCULATORY",0,1038.31
+"154",223,"Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"155",224,"Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC",3026.125,"1",5,"HEART & CIRCULATORY",2899.075,127.05
+"156",225,"Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"157",226,"Cardiac defibrillator implant w/o cardiac cath w MCC",11302.475,"1",5,"HEART & CIRCULATORY",7993.575,3308.9
+"158",227,"Cardiac defibrillator implant w/o cardiac cath w/o MCC",3871.82625,"1",5,"HEART & CIRCULATORY",1937.385,1934.44125
+"159",228,"Other cardiothoracic procedures w MCC",24584.16125,"3",5,"HEART & CIRCULATORY",20810.05,3774.11125
+"160",229,"Other cardiothoracic procedures w CC",27828.325,"3",5,"HEART & CIRCULATORY",23716.5775,4111.7475
+"161",230,"Other cardiothoracic procedures w/o CC/MCC",29046.78333,"3",5,"HEART & CIRCULATORY",24661.54,4385.243333
+"162",231,"Coronary bypass w PTCA w MCC",24605.205,"3",5,"HEART & CIRCULATORY",20863.29667,3741.908333
+"163",232,"Coronary bypass w PTCA w/o MCC",23096.102,"3",5,"HEART & CIRCULATORY",19652.564,3443.538
+"164",233,"Coronary bypass w cardiac cath w MCC",24170.28143,"3",5,"HEART & CIRCULATORY",20591.31893,3578.9625
+"165",234,"Coronary bypass w cardiac cath w/o MCC",22388.06288,"3",5,"HEART & CIRCULATORY",19029.90068,3358.162203
+"166",235,"Coronary bypass w/o cardiac cath w MCC",23864.22411,"3",5,"HEART & CIRCULATORY",20259.68464,3604.539464
+"167",236,"Coronary bypass w/o cardiac cath w/o MCC",24860.0864,"3",5,"HEART & CIRCULATORY",21125.29613,3734.790267
+"168",239,"Amputation for circ sys disorders exc upper limb & toe w MCC",18078.2275,"3",5,"HEART & CIRCULATORY",15290.44,2787.7875
+"169",240,"Amputation for circ sys disorders exc upper limb & toe w CC",13376.25449,"3",5,"HEART & CIRCULATORY",11501.04238,1875.212105
+"170",241,"Amputation for circ sys disorders exc upper limb & toe w/o CC/MCC",11764.74,"1",5,"HEART & CIRCULATORY",10230.87667,1533.863333
+"171",242,"Permanent cardiac pacemaker implant w MCC",5310.37,"1",5,"HEART & CIRCULATORY",4615.9,694.47
+"172",243,"Permanent cardiac pacemaker implant w CC",7161.790229,"1",5,"HEART & CIRCULATORY",6096.486111,1065.304118
+"173",244,"Permanent cardiac pacemaker implant w/o CC/MCC",9017.702727,"1",5,"HEART & CIRCULATORY",8212.912727,804.79
+"174",245,"AICD lead & generator procedures .....",10737.105,"1",5,"HEART & CIRCULATORY",9008.49,1728.615
+"175",246,"Perc cardiovasc proc w drug-eluting stent w MCC or 4+ vessels/stents",6028.042,"1",5,"HEART & CIRCULATORY",4670.252,1357.79
+"176",247,"Perc cardiovasc proc w drug-eluting stent w/o MCC",3474.26,"1",5,"HEART & CIRCULATORY",2025.19,1449.07
+"177",248,"Perc cardiovasc proc w non-drug-eluting stent w MCC or 4+ ves/stents",2339.92,"1",5,"HEART & CIRCULATORY",2339.92,0
+"178",249,"Perc cardiovasc proc w non-drug-eluting stent w/o MCC",319.48,"1",5,"HEART & CIRCULATORY",0,319.48
+"179",250,"Perc cardiovasc proc w/o coronary artery stent or AMI w MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"180",251,"Perc cardiovasc proc w/o coronary artery stent or AMI w/o MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"181",252,"Other vascular procedures w MCC .....",23325.73992,"3",5,"HEART & CIRCULATORY",20209.888,3115.851923
+"182",253,"Other vascular procedures w CC ........",21955.14811,"3",5,"HEART & CIRCULATORY",18990.71571,2964.432394
+"183",254,"Other vascular procedures w/o CC/ MCC",17387.42359,"3",5,"HEART & CIRCULATORY",14762.80442,2624.619167
+"184",255,"Upper limb & toe amputation for circ system disorders w MCC",5083.9,"1",5,"HEART & CIRCULATORY",4216.74,867.16
+"185",256,"Upper limb & toe amputation for circ system disorders w CC",4440.481667,"1",5,"HEART & CIRCULATORY",3818.181667,622.3
+"186",258,"Cardiac pacemaker device replacement w MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"187",259,"Cardiac pacemaker device replacement w/o MCC",6955.35,"1",5,"HEART & CIRCULATORY",6525,430.35
+"188",261,"Cardiac pacemaker revision except device replacement w CC",7593.935,"1",5,"HEART & CIRCULATORY",5620.285,1973.65
+"189",262,"Cardiac pacemaker revision except device replacement w/o CC/MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"190",263,"Vein ligation & stripping",20864.605,"3",5,"HEART & CIRCULATORY",15863.455,5001.15
+"191",264,"Other circulatory system O.R. procedures",4979.6245,"1",5,"HEART & CIRCULATORY",4113.502,866.1225
+"192",265,"AICD Lead Procedures",0,"1",5,"HEART & CIRCULATORY",0,0
+"193",280,"Acute myocardial infarction, discharged alive w MCC",2837.613654,"1",5,"HEART & CIRCULATORY",2505.346154,332.2675
+"194",281,"Acute myocardial infarction, discharged alive w CC",677.56,"1",5,"HEART & CIRCULATORY",380.9,296.66
+"195",282,"Acute myocardia infarction, discharged alive w/o CC/MCC",5458.09,"1",5,"HEART & CIRCULATORY",5048.59,409.5
+"196",283,"Acute myocardial infarction, expired w MCC",2103.435714,"1",5,"HEART & CIRCULATORY",2103.435714,0
+"197",284,"Acute myocardial infarction, expired w CC",2506.71,"1",5,"HEART & CIRCULATORY",2506.71,0
+"198",285,"Acute myocardial infarction, expired w/o CC/MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"199",286,"Circulatory disorders except AMI, w card cath w MCC",6113.37,"1",5,"HEART & CIRCULATORY",5440.18,673.19
+"200",287,"Circulatory disorders except AMI, w card cath w/o MCC",2144.6295,"1",5,"HEART & CIRCULATORY",1872.872,271.7575
+"201",288,"Acute & subacute endocarditis w MCC",3437.576,"1",5,"HEART & CIRCULATORY",2840.776,596.8
+"202",289,"Acute & subacute endocarditis w CC",1897.892,"1",5,"HEART & CIRCULATORY",1897.892,0
+"203",291,"Heart failure & shock w MCC",2106.501264,"1",5,"HEART & CIRCULATORY",1555.727931,550.7733333
+"204",292,"Heart failure & shock w CC",3143.871212,"1",5,"HEART & CIRCULATORY",2355.154545,788.7166667
+"205",293,"Heart failure & shock w/o CC/MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"206",294,"Deep vein thrombophlebitis w CC/ MCC",3388.82,"1",5,"HEART & CIRCULATORY",2427.1,961.72
+"207",296,"Cardiac arrest, unexplained w MCC",3042.636,"1",5,"HEART & CIRCULATORY",3042.636,0
+"208",297,"Cardiac arrest, unexplained w CC",0,"1",5,"HEART & CIRCULATORY",0,0
+"209",299,"Peripheral vascular disorders w MCC",4370.763333,"1",5,"HEART & CIRCULATORY",3678.283333,692.48
+"210",300,"Peripheral vascular disorders w CC",4035.8075,"1",5,"HEART & CIRCULATORY",3065.845,969.9625
+"211",301,"Peripheral vascular disorders w/o CC/ MCC",4167.47,"1",5,"HEART & CIRCULATORY",4167.47,0
+"212",302,"Atherosclerosis w MCC",4398.75,"1",5,"HEART & CIRCULATORY",1800,2598.75
+"213",303,"Atherosclerosis w/o MCC",160.88,"1",5,"HEART & CIRCULATORY",160.88,0
+"214",304,"Hypertension w MCC",0,"1",5,"HEART & CIRCULATORY",0,0
+"215",305,"Hypertension w/o MCC",1478.4,"1",5,"HEART & CIRCULATORY",0,1478.4
+"216",306,"Cardiac congenital & valvular disorders w MCC",1669.05,"1",5,"HEART & CIRCULATORY",1669.05,0
+"217",307,"Cardiac congenital & valvular disorders w/o MCC",2199.4275,"1",5,"HEART & CIRCULATORY",2199.4275,0
+"218",308,"Cardiac arrhythmia & conduction disorders w MCC",1458.875417,"1",5,"HEART & CIRCULATORY",1092.91875,365.9566667
+"219",309,"Cardiac arrhythmia & conduction disorders w CC",3354.67215,"1",5,"HEART & CIRCULATORY",2687.43375,667.2384
+"220",310,"Cardiac arrhythmia & conduction disorders w/o CC/MCC",3919.996538,"1",5,"HEART & CIRCULATORY",3312.879231,607.1173077
+"221",311,"Angina pectoris",0,"1",5,"HEART & CIRCULATORY",0,0
+"222",312,"Syncope & collapse",3224.42,"1",5,"HEART & CIRCULATORY",2174.7,1049.72
+"223",313,"Chest pain",1585.57375,"1",5,"HEART & CIRCULATORY",1279.67375,305.9
+"224",314,"Other circulatory system diagnoses w MCC",4809.252727,"1",5,"HEART & CIRCULATORY",3786.852727,1022.4
+"225",315,"Other circulatory system diagnoses w CC",4668.213667,"1",5,"HEART & CIRCULATORY",3483.567,1184.646667
+"226",316,"Other circulatory system diagnoses w/o CC/MCC",1829.35,"1",5,"HEART & CIRCULATORY",882.32,947.03
+"227",326,"Stomach, esophageal & duodenal proc w MCC",23368.40175,"3",6,"DIGESTIVE",19718.393,3650.00875
+"228",327,"Stomach, esophageal & duodenal proc w CC",16773.65678,"3",6,"DIGESTIVE",13999.82508,2773.831698
+"229",328,"Stomach, esophageal & duodenal proc w/o CC/MCC",16374.31118,"3",6,"DIGESTIVE",13989.69475,2384.616429
+"230",329,"Major small & large bowel procedures w MCC",24683.19811,"3",6,"DIGESTIVE",22115.94122,2567.256893
+"231",330,"Major small & large bowel procedures w CC",18073.91928,"3",6,"DIGESTIVE",15877.04317,2196.876111
+"232",331,"Major small & large bowel procedures w/o CC/MCC",16737.45916,"3",6,"DIGESTIVE",14827.26067,1910.198491
+"233",333,"Rectal resection w CC",23427.83,"3",6,"DIGESTIVE",20386.684,3041.146
+"234",334,"Rectal resection w/o CC/MCC",13230.82375,"3",6,"DIGESTIVE",11078.71375,2152.11
+"235",335,"Peritoneal adhesiolysis w MCC",16769.01986,"3",6,"DIGESTIVE",14742.81111,2026.20875
+"236",336,"Peritoneal adhesiolysis w CC",14763.34435,"3",6,"DIGESTIVE",12905.7666,1857.57775
+"237",337,"Peritoneal adhesiolysis w/o CC/MCC",11784.24873,"1",6,"DIGESTIVE",10449.82083,1334.427895
+"238",338,"Appendectomy w complicated principal diag w MCC",11632.19161,"1",6,"DIGESTIVE",10232.59875,1399.592857
+"239",339,"Appendectomy w complicated principal diag w CC",10469.85152,"1",6,"DIGESTIVE",9274.56,1195.291515
+"240",340,"Appendectomy w complicated principal diag w/o CC/MCC",10310.74904,"1",6,"DIGESTIVE",9076.973235,1233.775806
+"241",341,"Appendectomy w/o complicated principal diag w MCC",13928.764,"3",6,"DIGESTIVE",12633.926,1294.838
+"242",342,"Appendectomy w/o complicated principal diag w CC",9899.864026,"1",6,"DIGESTIVE",8961.011333,938.8526923
+"243",343,"Appendectomy w/o complicated principal diag w/o CC/MCC",8325.696051,"1",6,"DIGESTIVE",7272.119615,1053.576436
+"244",344,"Minor small & large bowel procedures w MCC",9209.97,"1",6,"DIGESTIVE",8034.74,1175.23
+"245",345,"Minor small & large bowel proceduresw CC",11459.89208,"1",6,"DIGESTIVE",9737.538235,1722.353846
+"246",346,"Minor small & large bowel procedures w/o CC/MCC",9425.454103,"1",6,"DIGESTIVE",8225.283333,1200.170769
+"247",347,"Anal & stomal procedures w MCC",11416.6625,"1",6,"DIGESTIVE",9772.5675,1644.095
+"248",348,"Anal & stomal procedures w CC",8105.625065,"1",6,"DIGESTIVE",6904.453889,1201.171176
+"249",349,"Anal & stomal procedures w/o CC/ MCC",9353.016784,"1",6,"DIGESTIVE",8064.647895,1288.368889
+"250",350,"Inguinal & femoral hernia procedures w MCC",13389.25,"3",6,"DIGESTIVE",11621.71667,1767.533333
+"251",351,"Inguinal & femoral hernia procedures w CC",14245.47538,"3",6,"DIGESTIVE",12646.8,1598.675385
+"252",352,"Inguinal & femoral hernia procedures w/o CC/MCC",10854.48083,"1",6,"DIGESTIVE",9257.335833,1597.145
+"253",353,"Hernia procedures except inguinal & femoral w MCC",11749.9685,"1",6,"DIGESTIVE",10499.996,1249.9725
+"254",354,"Hernia procedures except inguinal & femoral w CC",11486.73676,"1",6,"DIGESTIVE",10184.12276,1302.614
+"255",355,"Hernia procedures except inguinal & femoral w/o CC/MCC",13434.6475,"3",6,"DIGESTIVE",11554.41061,1880.236897
+"256",356,"Other digestive system O.R. procedures w MCC",13907.076,"3",6,"DIGESTIVE",11381.73933,2525.336667
+"257",357,"Other digestive system O.R. procedures w CC",11037.03667,"1",6,"DIGESTIVE",9414.086667,1622.95
+"258",358,"Other digestive system O.R. procedures w/o CC/MCC",9105.184394,"1",6,"DIGESTIVE",7402.081667,1703.102727
+"259",368,"Major esophageal disorders w MCC",3509.7775,"1",6,"DIGESTIVE",2448.6475,1061.13
+"260",369,"Major esophageal disorders w CC",3628.307,"1",6,"DIGESTIVE",2755.442,872.865
+"261",370,"Major esophageal disorders w/o CC/ MCC",2071.3,"1",6,"DIGESTIVE",1763.3,308
+"262",371,"Major gastrointestinal disorders & peritoneal infections w MCC",3507.7425,"1",6,"DIGESTIVE",3319.7425,188
+"263",372,"Major gastrointestinal disorders & peritoneal infections w CC",3474.77042,"1",6,"DIGESTIVE",2777.324706,697.4457143
+"264",373,"Major gastrointestinal disorders & peritoneal infections w/o CC/MCC",5242.77902,"1",6,"DIGESTIVE",3847.252353,1395.526667
+"265",374,"Digestive malignancy w MCC",4703.668429,"1",6,"DIGESTIVE",3705.496429,998.172
+"266",375,"Digestive malignancy w CC",5108.355983,"1",6,"DIGESTIVE",4102.731538,1005.624444
+"267",376,"Digestive malignancy w/o CC/MCC",7986.168,"1",6,"DIGESTIVE",7107.598,878.57
+"268",377,"G.I. hemorrhage w MCC",4137.5825,"1",6,"DIGESTIVE",3513.7525,623.83
+"269",378,"G.I. hemorrhage w CC",3839.168543,"1",6,"DIGESTIVE",3027.267043,811.9015
+"270",379,"G.I. hemorrhage w/o CC/MCC",3793.349655,"1",6,"DIGESTIVE",3020.349655,773
+"271",380,"Complicated peptic ulcer w MCC",1106.25,"1",6,"DIGESTIVE",1106.25,0
+"272",381,"Complicated peptic ulcer w CC",3150.596667,"1",6,"DIGESTIVE",2509.996667,640.6
+"273",382,"Complicated peptic ulcer w/o CC/MCC",4617.975,"1",6,"DIGESTIVE",4112.975,505
+"274",383,"Uncomplicated peptic ulcer w MCC",2513.42,"1",6,"DIGESTIVE",2513.42,0
+"275",384,"Uncomplicated peptic ulcer w/o MCC",1860.1825,"1",6,"DIGESTIVE",1585.1825,275
+"276",385,"Inflammatory bowel disease w MCC",2025.19,"1",6,"DIGESTIVE",2025.19,0
+"277",386,"Inflammatory bowel disease w CC",3590.245333,"1",6,"DIGESTIVE",2973.213333,617.032
+"278",387,"Inflammatory bowel disease w/o CC/ MCC",4201.264,"1",6,"DIGESTIVE",3044.204,1157.06
+"279",388,"G.I. obstruction w MCC",4712.724545,"1",6,"DIGESTIVE",3227.724545,1485
+"280",389,"G.I. obstruction w CC",3209.787537,"1",6,"DIGESTIVE",2607.098966,602.6885714
+"281",390,"G.I. obstruction w/o CC/MCC",2259.513333,"1",6,"DIGESTIVE",1756.838333,502.675
+"282",391,"Esophagitis, gastroent & misc digest disorders w MCC",3237.939737,"1",6,"DIGESTIVE",2477.254737,760.685
+"283",392,"Esophagitis, gastroent & misc digest disorders w/o MCC",3819.843695,"1",6,"DIGESTIVE",3169.112584,650.7311111
+"284",393,"Other digestive system diagnoses w MCC",4664.47819,"1",6,"DIGESTIVE",3890.67619,773.802
+"285",394,"Other digestive system diagnoses w CC",5701.551493,"1",6,"DIGESTIVE",4873.857647,827.6938462
+"286",395,"Other digestive system diagnoses w/o CC/MCC",6216.051,"1",6,"DIGESTIVE",4989.826,1226.225
+"287",405,"Pancreas, liver & shunt procedures w MCC",29686.16625,"3",7,"LIVER & PANCREAS",24713.6825,4972.48375
+"288",406,"Pancreas, liver & shunt procedures w CC",33084.28789,"3",7,"LIVER & PANCREAS",28284.10895,4800.178947
+"289",407,"Pancreas, liver & shunt procedures w/o CC/MCC",24379.28,"3",7,"LIVER & PANCREAS",20509.35,3869.93
+"290",408,"Biliary tract proc except only cholecyst w or w/o c.d.e. w MCC",13458.492,"3",7,"LIVER & PANCREAS",11358.75,2099.742
+"291",409,"Biliary tract proc except only cholecyst w or w/o c.d.e. w CC",8909.300077,"1",7,"LIVER & PANCREAS",7495.083077,1414.217
+"292",410,"Biliary tract proc except only cholecyst w or w/o c.d.e. w/o CC/MCC",7712.296667,"1",7,"LIVER & PANCREAS",5783.16,1929.136667
+"293",412,"Cholecystectomy w c.d.e. w CC",17626.222,"3",7,"LIVER & PANCREAS",15638.496,1987.726
+"294",413,"Cholecystectomy w c.d.e. w/o CC/MCC",18053.5,"3",7,"LIVER & PANCREAS",16057.5,1996
+"295",414,"Cholecystectomy except by laparoscope w/o c.d.e. w MCC",18765.26083,"3",7,"LIVER & PANCREAS",16461.00083,2304.26
+"296",415,"Cholecystectomy except by laparoscope w/o c.d.e. w CC",18330.40969,"3",7,"LIVER & PANCREAS",15697.53864,2632.871053
+"297",416,"Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC",14807.29408,"3",7,"LIVER & PANCREAS",12901.11056,1906.183529
+"298",417,"Laparoscopic cholecystectomy w/o c.d.e. w MCC",13918.57944,"3",7,"LIVER & PANCREAS",12650.51167,1268.067778
+"299",418,"Laparoscopic cholecystectomy w/o c.d.e. w CC",12533.11317,"1",7,"LIVER & PANCREAS",11130.00598,1403.107191
+"300",419,"Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC",11437.16089,"1",7,"LIVER & PANCREAS",10127.19762,1309.963273
+"301",420,"Hepatobiliary diagnostic procedures w MCC",13051.75917,"3",7,"LIVER & PANCREAS",10643.08917,2408.67
+"302",421,"Hepatobiliary diagnostic procedures w CC",8352.576333,"1",7,"LIVER & PANCREAS",6357.228333,1995.348
+"303",422,"Hepatobiliary diagnostic procedures w/o CC/MCC",11768.93667,"1",7,"LIVER & PANCREAS",9258.736667,2510.2
+"304",423,"Other hepatobiliary or pancreas O.R. procedures w MCC",19586.695,"3",7,"LIVER & PANCREAS",18057.405,1529.29
+"305",424,"Other hepatobiliary or pancreas O.R. procedures w CC",17453.72,"3",7,"LIVER & PANCREAS",14981.92,2471.8
+"306",432,"Cirrhosis & alcoholic hepatitis w MCC",2134.496471,"1",7,"LIVER & PANCREAS",2134.496471,0
+"307",433,"Cirrhosis & alcoholic hepatitis w CC",3478.84875,"1",7,"LIVER & PANCREAS",2468.84875,1010
+"308",434,"Cirrhosis & alcoholic hepatitis w/o CC/ MCC",998.98,"1",7,"LIVER & PANCREAS",998.98,0
+"309",435,"Malignancy of hepatobiliary system or pancreas w MCC",6480.766462,"1",7,"LIVER & PANCREAS",5626.078,854.6884615
+"310",436,"Malignancy of hepatobiliary system or pancreas w CC",6032.235,"1",7,"LIVER & PANCREAS",5087.475,944.76
+"311",437,"Malignancy of hepatobiliary system or pancreas w/o CC/MCC",2025.19,"1",7,"LIVER & PANCREAS",2025.19,0
+"312",438,"Disorders of pancreas except malignancy w MCC",7503.454,"1",7,"LIVER & PANCREAS",6150.65,1352.804
+"313",439,"Disorders of pancreas except malignancy w CC",5226.585779,"1",7,"LIVER & PANCREAS",4366.868636,859.7171429
+"314",440,"Disorders of pancreas except malignancy w/o CC/MCC",8406.669333,"1",7,"LIVER & PANCREAS",7387.376,1019.293333
+"315",441,"Disorders of liver except malig,cirr,alchepa w MCC",3163.603636,"1",7,"LIVER & PANCREAS",2821.303636,342.3
+"316",442,"Disorders of liver except malig,cirr,alchepa w CC",3751.661364,"1",7,"LIVER & PANCREAS",2739.966364,1011.695
+"317",443,"Disorders of liver except malig,cirr,alchepa w/o CC/MCC",2995.81,"1",7,"LIVER & PANCREAS",2995.81,0
+"318",444,"Disorders of the biliary tract w MCC",7804.484444,"1",7,"LIVER & PANCREAS",7109.17,695.3144444
+"319",445,"Disorders of the biliary tract w CC",8168.292709,"1",7,"LIVER & PANCREAS",7267.533478,900.7592308
+"320",446,"Disorders of the biliary tract w/o CC/ MCC",8834.928394,"1",7,"LIVER & PANCREAS",7935.017727,899.9106667
+"321",453,"Combined anterior/posterior spinal fusion w MCC",40307.15,"2",8,"MUSCULOSKELETAL",34611.3325,5695.8175
+"322",454,"Combined anterior/posterior spinal fusion w CC",33569.43923,"3",8,"MUSCULOSKELETAL",28443.23154,5126.207692
+"323",455,"Combined anterior/posterior spinal fusion w/o CC/MCC",28516.564,"3",8,"MUSCULOSKELETAL",25469.208,3047.356
+"324",456,"Spinal fus exc cerv w spinal curv/ malig/infec or 9+ fus w MCC",26913.315,"3",8,"MUSCULOSKELETAL",23086.96417,3826.350833
+"325",457,"Spinal fus exc cerv w spinal curv/ malig/infec or 9+ fus w CC",23599.81292,"3",8,"MUSCULOSKELETAL",19921.09125,3678.721667
+"326",458,"Spinal fus exc cerv w spinal curv/ malig/infec or 9+ fus w/o CC/MCC",17845.64333,"3",8,"MUSCULOSKELETAL",15889.61,1956.033333
+"327",459,"Spinal fusion except cervical w MCC",19832.44092,"3",8,"MUSCULOSKELETAL",17463.958,2368.482917
+"328",460,"Spinal fusion except cervical w/o MCC",19578.48112,"3",8,"MUSCULOSKELETAL",17374.32617,2204.154946
+"329",461,"Bilateral or multiple major joint procs of lower extremity w MCC",26063.3375,"3",8,"MUSCULOSKELETAL",22786,3277.3375
+"330",462,"Bilateral or multiple major joint procs of lower extremity w/o MCC",19706.0713,"3",8,"MUSCULOSKELETAL",17084.71297,2621.358333
+"331",463,"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w MCC",19247.07884,"3",8,"MUSCULOSKELETAL",16525.13313,2721.945714
+"332",464,"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w CC",20061.17116,"3",8,"MUSCULOSKELETAL",17417.75459,2643.416563
+"333",465,"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w/o CC/MCC",14492.25881,"3",8,"MUSCULOSKELETAL",12801.66667,1690.592143
+"334",466,"Revision of hip or knee replacement w MCC",24266.553,"3",8,"MUSCULOSKELETAL",21618.164,2648.389
+"335",467,"Revision of hip or knee replacement w CC",20170.97509,"3",8,"MUSCULOSKELETAL",17441.22754,2729.747544
+"336",468,"Revision of hip or knee replacement w/o CC/MCC",17119.81266,"3",8,"MUSCULOSKELETAL",15271.39088,1848.421786
+"337",469,"Major joint replacement or reattachment of lower extremity w MCC",14405.06748,"3",8,"MUSCULOSKELETAL",12831.97964,1573.087843
+"338",470,"Major joint replacement or reattachment of lower extremity w/o MCC",15161.7198,"3",8,"MUSCULOSKELETAL",13444.89765,1716.822151
+"339",471,"Cervical spinal fusion w MCC",24528.17167,"3",8,"MUSCULOSKELETAL",21158.13667,3370.035
+"340",472,"Cervical spinal fusion w CC",16140.48157,"3",8,"MUSCULOSKELETAL",13931.62809,2208.853488
+"341",473,"Cervical spinal fusion w/o CC/MCC",14562.86978,"3",8,"MUSCULOSKELETAL",12786.10577,1776.764015
+"342",474,"Amputation for musculoskeletal sys & conn tissue dis w MCC",18337.68429,"3",8,"MUSCULOSKELETAL",16026.31286,2311.371429
+"343",475,"Amputation for musculoskeletal sys & conn tissue dis w CC",13711.59096,"3",8,"MUSCULOSKELETAL",11827.97563,1883.615333
+"344",476,"Amputation for musculoskeletal sys & conn tissue dis w/o CC/MCC",15050.82,"3",8,"MUSCULOSKELETAL",12747.155,2303.665
+"345",477,"Biopsies of musculoskeletal system & connective tissue w MCC",4057.826667,"1",8,"MUSCULOSKELETAL",3436.66,621.1666667
+"346",478,"Biopsies of musculoskeletal system & connective tissue w CC",9752.393474,"1",8,"MUSCULOSKELETAL",8377.064,1375.329474
+"347",479,"Biopsies of musculoskeletal system & connective tissue w/o CC/MCC",4564.505357,"1",8,"MUSCULOSKELETAL",3620.5125,943.9928571
+"348",480,"Hip & femur procedures except major joint w MCC",14650.06427,"3",8,"MUSCULOSKELETAL",12910.89895,1739.165316
+"349",481,"Hip & femur procedures except major joint w CC",12297.19062,"1",8,"MUSCULOSKELETAL",10804.85471,1492.335912
+"350",482,"Hip & femur procedures except major joint w/o CC/MCC",12031.63377,"1",8,"MUSCULOSKELETAL",10508.02384,1523.609928
+"351",483,"Major joint & limb reattachment proc of upper extremity w CC/MCC",19314.56907,"3",8,"MUSCULOSKELETAL",16483.61,2830.959071
+"352",485,"Knee procedures w pdx of infection w MCC",25876.4575,"3",8,"MUSCULOSKELETAL",20863.32,5013.1375
+"353",486,"Knee procedures w pdx of infection w CC",19811.56222,"3",8,"MUSCULOSKELETAL",17605.23556,2206.326667
+"354",487,"Knee procedures w pdx of infection w/o CC/MCC",15589.36667,"3",8,"MUSCULOSKELETAL",13658.125,1931.241667
+"355",488,"Knee procedures w/o pdx of infection w CC/MCC",19532.74675,"3",8,"MUSCULOSKELETAL",16892.49941,2640.247333
+"356",489,"Knee procedures w/o pdx of infection w/o CC/MCC",15408.54238,"3",8,"MUSCULOSKELETAL",12686.07438,2722.468
+"357",492,"Lower extrem & humer proc except hip,foot,femur w MCC",15838.11648,"3",8,"MUSCULOSKELETAL",13478.07815,2360.038333
+"358",493,"Lower extrem & humer proc except hip,foot,femur w CC",16006.28852,"3",8,"MUSCULOSKELETAL",13989.02658,2017.261944
+"359",494,"Lower extrem & humer proc except hip,foot,femur w/o CC/MCC",14351.66673,"3",8,"MUSCULOSKELETAL",12387.26155,1964.405181
+"360",496,"Local excision & removal int fix devices exc hip & femur w CC",14649.19244,"3",8,"MUSCULOSKELETAL",12744.01077,1905.181667
+"361",497,"Local excision & removal int fix devices exc hip & femur w/o CC/MCC",9886.508,"1",8,"MUSCULOSKELETAL",8462.178,1424.33
+"362",498,"Local excision & removal int fix devices of hip & femur w CC/MCC",15779.11833,"3",8,"MUSCULOSKELETAL",13507.29,2271.828333
+"363",499,"Local excision & removal int fix devices of hip & femur w/o CC/MCC",18516.96,"3",8,"MUSCULOSKELETAL",15653.05,2863.91
+"364",500,"Soft tissue procedures w MCC",17753.805,"3",8,"MUSCULOSKELETAL",14981.995,2771.81
+"365",501,"Soft tissue procedures w CC",11871.3456,"1",8,"MUSCULOSKELETAL",10302.6,1568.7456
+"366",502,"Soft tissue procedures w/o CC/MCC",21286.0083,"3",8,"MUSCULOSKELETAL",18833.00053,2453.007778
+"367",503,"Foot procedures w MCC",6002.095,"1",8,"MUSCULOSKELETAL",5411.9125,590.1825
+"368",504,"Foot procedures w CC",8666.957391,"1",8,"MUSCULOSKELETAL",7492.427391,1174.53
+"369",505,"Foot procedures w/o CC/MCC",12586.505,"1",8,"MUSCULOSKELETAL",11097.81429,1488.690714
+"370",506,"Major thumb or joint procedures",8001.07,"1",8,"MUSCULOSKELETAL",7123.27,877.8
+"371",507,"Major shoulder or elbow joint procedures w CC/MCC",6538.873333,"1",8,"MUSCULOSKELETAL",5334.033333,1204.84
+"372",508,"Major shoulder or elbow joint procedures w/o CC/MCC",20737.25,"3",8,"MUSCULOSKELETAL",18613.75,2123.5
+"373",509,"Arthroscopy",7752,"1",8,"MUSCULOSKELETAL",6052,1700
+"374",510,"Shoulder,elbow or forearm proc,exc major joint proc w MCC",8043.8,"1",8,"MUSCULOSKELETAL",7142.525,901.275
+"375",511,"Shoulder,elbow or forearm proc,exc major joint proc w CC",14649.15151,"3",8,"MUSCULOSKELETAL",12764.61563,1884.535882
+"376",512,"Shoulder,elbow or forearm proc,exc major joint proc w/o CC/MCC",13242.78801,"3",8,"MUSCULOSKELETAL",11631.13385,1611.654167
+"377",513,"Hand or wrist proc, except major thumb or joint proc w CC/MCC",9918.6975,"1",8,"MUSCULOSKELETAL",8615.24,1303.4575
+"378",514,"Hand or wrist proc, except major thumb or joint proc w/o CC/MCC",6832.04,"1",8,"MUSCULOSKELETAL",5720.916667,1111.123333
+"379",515,"Other musculoskelet sys & conn tiss O.R. proc w MCC",17353.215,"3",8,"MUSCULOSKELETAL",15319.085,2034.13
+"380",516,"Other musculoskelet sys & conn tiss O.R. proc w CC",14713.96354,"3",8,"MUSCULOSKELETAL",12651.27737,2062.686176
+"381",517,"Other musculoskelet sys & conn tiss O.R. proc w/o CC/MCC",13100.60642,"3",8,"MUSCULOSKELETAL",11258.79491,1841.811509
+"382",533,"Fractures of femur w MCC",14799.34,"3",8,"MUSCULOSKELETAL",13910,889.34
+"383",534,"Fractures of femur w/o MCC",7154.225,"1",8,"MUSCULOSKELETAL",6072.791667,1081.433333
+"384",535,"Fractures of hip & pelvis w MCC",5611.513333,"1",8,"MUSCULOSKELETAL",4736.13,875.3833333
+"385",536,"Fractures of hip & pelvis w/o MCC",9182.203333,"1",8,"MUSCULOSKELETAL",7824.201667,1358.001667
+"386",537,"Sprains, strains, & dislocations of hip, pelvis & thigh w CC/MCC",0,"1",8,"MUSCULOSKELETAL",0,0
+"387",538,"Sprains, strains, & dislocations of hip, pelvis & thigh w/o CC/MCC",0,"1",8,"MUSCULOSKELETAL",0,0
+"388",539,"Osteomyelitis w MCC",7812.920357,"1",8,"MUSCULOSKELETAL",6270.772857,1542.1475
+"389",540,"Osteomyelitis w CC",3765.760606,"1",8,"MUSCULOSKELETAL",3248.427273,517.3333333
+"390",541,"Osteomyelitis w/o CC/MCC",4890.65,"1",8,"MUSCULOSKELETAL",4157.085,733.565
+"391",542,"Pathological fractures & musculoskelet & conn tiss malig w MCC",6274.766667,"1",8,"MUSCULOSKELETAL",4437.756667,1837.01
+"392",543,"Pathological fractures & musculoskelet & conn tiss malig w CC",9129.677857,"1",8,"MUSCULOSKELETAL",7994.862857,1134.815
+"393",544,"Pathological fractures & musculoskelet & conn tiss malig w/o CC/MCC",5537.715,"1",8,"MUSCULOSKELETAL",5537.715,0
+"394",545,"Connective tissue disorders w MCC",6316.876667,"1",8,"MUSCULOSKELETAL",6316.876667,0
+"395",546,"Connective tissue disorders w CC",5125.7975,"1",8,"MUSCULOSKELETAL",4007.6175,1118.18
+"396",547,"Connective tissue disorders w/o CC/ MCC",743.71,"1",8,"MUSCULOSKELETAL",392.08,351.63
+"397",548,"Septic arthritis w MCC .",5110.32,"1",8,"MUSCULOSKELETAL",3494.32,1616
+"398",549,"Septic arthritis w CC",5658.903889,"1",8,"MUSCULOSKELETAL",4976.128889,682.775
+"399",550,"Septic arthritis w/o CC/MCC",0,"1",8,"MUSCULOSKELETAL",0,0
+"400",551,"Medical back problems w MCC",3224.31,"1",8,"MUSCULOSKELETAL",2454.943333,769.3666667
+"401",552,"Medical back problems w/o MCC",4327.1025,"1",8,"MUSCULOSKELETAL",2393.3025,1933.8
+"402",553,"Bone diseases & arthropathies w MCC",0,"1",8,"MUSCULOSKELETAL",0,0
+"403",554,"Bone diseases & arthropathies w/o MCC",12821.32179,"3",8,"MUSCULOSKELETAL",9675.464286,3145.8575
+"404",555,"Signs & symptoms of musculoskeletal system & conn tissue w MCC",9521.96,"1",8,"MUSCULOSKELETAL",9521.96,0
+"405",556,"Signs & symptoms of musculoskeletal system & conn tissue w/o MCC",1861.674,"1",8,"MUSCULOSKELETAL",869.004,992.67
+"406",557,"Tendonitis, myositis & bursitis w MCC",4221.663,"1",8,"MUSCULOSKELETAL",3262.998,958.665
+"407",558,"Tendonitis, myositis & bursitis w/o MCC",4831.095,"1",8,"MUSCULOSKELETAL",3687.84,1143.255
+"408",559,"Aftercare, musculoskeletal system & connective tissue w MCC",1454.743333,"1",8,"MUSCULOSKELETAL",1454.743333,0
+"409",560,"Aftercare, musculoskeletal system & connective tissue w CC",8622.615833,"1",8,"MUSCULOSKELETAL",7137.398333,1485.2175
+"410",561,"Aftercare, musculoskeletal system & connective tissue w/o CC/MCC",6165.174805,"1",8,"MUSCULOSKELETAL",4647.189091,1517.985714
+"411",562,"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w MCC",2851.875,"1",8,"MUSCULOSKELETAL",2675.875,176
+"412",563,"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w/o MCC",14405.30583,"3",8,"MUSCULOSKELETAL",12239.81583,2165.49
+"413",564,"Other musculoskeletal sys & connective tissue diagnoses w MCC",1729.0775,"1",8,"MUSCULOSKELETAL",1729.0775,0
+"414",565,"Other musculoskeletal sys & connective tissue diagnoses w CC",312.01,"1",8,"MUSCULOSKELETAL",312.01,0
+"415",566,"Other musculoskeletal sys & connective tissue diagnoses w/o CC/MCC",5436.475,"1",8,"MUSCULOSKELETAL",4152.85,1283.625
+"416",573,"Skin graft &/or debrid for skn ulcer or cellulitis w MCC",17205.01583,"3",9,"SKIN AND BREAST",14436.5625,2768.453333
+"417",574,"Skin graft &/or debrid for skn ulcer or cellulitis w CC",29370.98333,"3",9,"SKIN AND BREAST",25321.47333,4049.51
+"418",575,"Skin graft &/or debrid for skn ulcer or cellulitis w/o CC/MCC",11847,"1",9,"SKIN AND BREAST",10543,1304
+"419",576,"Skin graft &/or debrid exc for skin ulcer or cellulitis w MCC",42624.37,"2",9,"SKIN AND BREAST",36097.85,6526.52
+"420",577,"Skin graft &/or debrid exc for skin ulcer or cellulitis w CC",37365.428,"2",9,"SKIN AND BREAST",31741.942,5623.486
+"421",578,"Skin graft &/or debrid exc for skin ulcer or cellulitis w/o CC/MCC",10651.99,"1",9,"SKIN AND BREAST",8970.156,1681.834
+"422",579,"Other skin, subcut tiss & breast proc w MCC",13544.152,"3",9,"SKIN AND BREAST",10692.47,2851.682
+"423",580,"Other skin, subcut tiss & breast proc w CC",15360.79872,"3",9,"SKIN AND BREAST",13309.48739,2051.311333
+"424",581,"Other skin, subcut tiss & breast proc w/o CC/MCC",17083.05346,"3",9,"SKIN AND BREAST",14559.55714,2523.496316
+"425",582,"Mastectomy for malignancy w CC/ MCC",22349.845,"3",9,"SKIN AND BREAST",19209.8775,3139.9675
+"426",583,"Mastectomy for malignancy w/o CC/ MCC",16844.77095,"3",9,"SKIN AND BREAST",14533.99429,2310.776667
+"427",585,"Breast biopsy, local excision & other breast procedures w/o CC/MCC",34389.77833,"3",9,"SKIN AND BREAST",28332.935,6056.843333
+"428",592,"Skin ulcers w MCC",1044.41,"1",9,"SKIN AND BREAST",1044.41,0
+"429",593,"Skin ulcers w CC",1772.39,"1",9,"SKIN AND BREAST",1772.39,0
+"430",594,"Skin ulcers w/o CC/MCC",0,"1",9,"SKIN AND BREAST",0,0
+"431",595,"Major skin disorders w MCC",3777.36,"1",9,"SKIN AND BREAST",1511.38,2265.98
+"432",596,"Major skin disorders w/o MCC",998.98,"1",9,"SKIN AND BREAST",998.98,0
+"433",597,"Malignant breast disorders w MCC",4888.453333,"1",9,"SKIN AND BREAST",4888.453333,0
+"434",598,"Malignant breast disorders w CC",5482.633333,"1",9,"SKIN AND BREAST",5482.633333,0
+"435",600,"Non-malignant breast disorders w CC/ MCC",0,"1",9,"SKIN AND BREAST",0,0
+"436",601,"Non-malignant breast disorders w/o CC/MCC",498.58,"1",9,"SKIN AND BREAST",498.58,0
+"437",602,"Cellulitis w MCC",3632.662,"1",9,"SKIN AND BREAST",3211.262,421.4
+"438",603,"Cellulitis w/o MCC.",4187.34831,"1",9,"SKIN AND BREAST",3359.86881,827.4795
+"439",604,"Trauma to the skin, subcut tiss & breast w MCC",0,"1",9,"SKIN AND BREAST",0,0
+"440",605,"Trauma to the skin, subcut tiss & breast w/o MCC",4745.1575,"1",9,"SKIN AND BREAST",3876.82,868.3375
+"441",606,"Minor skin disorders w MCC",2673.16,"1",9,"SKIN AND BREAST",2513.42,159.74
+"442",607,"Minor skin disorders w/o MCC",3400.69,"1",9,"SKIN AND BREAST",3400.69,0
+"443",614,"Adrenal & pituitary procedures w CC/ MCC",21881.818,"3",10,"ENDOCRINE",18476.988,3404.83
+"444",615,"Adrenal & pituitary procedures w/o CC/MCC",19140.90991,"3",10,"ENDOCRINE",16224.519,2916.390909
+"445",616,"Amputat of lower limb for endocrine,nutrit,& metabol dis w MCC",6207,"1",10,"ENDOCRINE",4995,1212
+"446",617,"Amputat of lower limb for endocrine,nutrit,& metabol dis w CC",8642.299293,"1",10,"ENDOCRINE",7588.093043,1054.20625
+"447",619,"O.R. procedures for obesity w MCC",11854.06,"1",10,"ENDOCRINE",9902.95,1951.11
+"448",620,"O.R. procedures for obesity w CC",10206.59588,"1",10,"ENDOCRINE",8618.612941,1587.982941
+"449",621,"O.R. procedures for obesity w/o CC/ MCC",10167.95007,"1",10,"ENDOCRINE",8563.029856,1604.920216
+"450",622,"Skin grafts & wound debrid for endoc, nutrit & metab dis w MCC",0,"1",10,"ENDOCRINE",0,0
+"451",623,"Skin grafts & wound debrid for endoc, nutrit & metab dis w CC",7555.913,"1",10,"ENDOCRINE",6812.713,743.2
+"452",624,"Skin grafts & wound debrid for endoc, nutrit & metab dis w/o CC/MCC",15220.68,"3",10,"ENDOCRINE",13105.735,2114.945
+"453",626,"Thyroid, parathyroid & thyroglossal procedures w CC",30841.942,"3",10,"ENDOCRINE",26227.314,4614.628
+"454",627,"Thyroid, parathyroid & thyroglossal procedures w/o CC/MCC",13182.76,"3",10,"ENDOCRINE",11885.46667,1297.293333
+"455",628,"Other endocrine, nutrit & metab O.R. proc w MCC",7554.285,"1",10,"ENDOCRINE",6848.94,705.345
+"456",629,"Other endocrine, nutrit & metab O.R. proc w CC",9580.374762,"1",10,"ENDOCRINE",8018.753333,1561.621429
+"457",630,"Other endocrine, nutrit & metab O.R. proc w/o CC/MCC",15931.67,"3",10,"ENDOCRINE",13353.01,2578.66
+"458",637,"Diabetes w MCC",1621.373333,"1",10,"ENDOCRINE",1187.793333,433.58
+"459",638,"Diabetes w CC",2322.074667,"1",10,"ENDOCRINE",1968.364667,353.71
+"460",639,"Diabetes w/o CC/MCC",2576.96,"1",10,"ENDOCRINE",1710.96,866
+"461",640,"Nutritional & misc metabolic disorders w MCC",3264.097143,"1",10,"ENDOCRINE",2282.837143,981.26
+"462",641,"Nutritional & misc metabolic disorders w/o MCC",2874.236111,"1",10,"ENDOCRINE",2067.066111,807.17
+"463",642,"Inborn errors of metabolism",4094.99,"1",10,"ENDOCRINE",3210.715,884.275
+"464",643,"Endocrine disorders w MCC",3219.546,"1",10,"ENDOCRINE",2820.196,399.35
+"465",644,"Endocrine disorders w CC",0,"1",10,"ENDOCRINE",0,0
+"466",645,"Endocrine disorders w/o CC/MCC",0,"1",10,"ENDOCRINE",0,0
+"467",652,"Kidney transplant",37310.68917,"2",11,"KIDNEY & URINARY",32012.04583,5298.643333
+"468",653,"Major bladder procedures w MCC",51883.375,"2",11,"KIDNEY & URINARY",45230.4275,6652.9475
+"469",654,"Major bladder procedures w CC",32705.98056,"3",11,"KIDNEY & URINARY",27862.28889,4843.691667
+"470",655,"Major bladder procedures w/o CC/ MCC",36897.6775,"2",11,"KIDNEY & URINARY",30898.87,5998.8075
+"471",656,"Kidney & ureter procedures for neoplasm w MCC",12978.535,"3",11,"KIDNEY & URINARY",11028.09,1950.445
+"472",657,"Kidney & ureter procedures for neoplasm w CC",18830.63634,"3",11,"KIDNEY & URINARY",16104.21674,2726.4196
+"473",658,"Kidney & ureter procedures for neoplasm w/o CC/MCC",20009.36093,"3",11,"KIDNEY & URINARY",17019.26593,2990.095
+"474",659,"Kidney & ureter procedures for nonneoplasm w MCC",15642.26043,"3",11,"KIDNEY & URINARY",13850.48154,1791.778889
+"475",660,"Kidney & ureter procedures for non-neoplasm w CC",16248.56622,"3",11,"KIDNEY & URINARY",13636.03674,2612.529474
+"476",661,"Kidney & ureter procedures for non-neoplasm w/o CC/MCC",16336.57105,"3",11,"KIDNEY & URINARY",13751.80026,2584.770789
+"477",662,"Minor bladder procedures w MCC",6791,"1",11,"KIDNEY & URINARY",6147,644
+"478",663,"Minor bladder procedures w CC",10150.18,"1",11,"KIDNEY & URINARY",8922.75,1227.43
+"479",664,"Minor bladder procedures w/o CC/ MCC",21152.46,"3",11,"KIDNEY & URINARY",17889.2,3263.26
+"480",665,"Prostatectomy w MCC",855.75,"1",11,"KIDNEY & URINARY",0,855.75
+"481",666,"Prostatectomy w CC",11650.8,"1",11,"KIDNEY & URINARY",10768.13333,882.6666667
+"482",667,"Prostatectomy w/o CC/MCC",13617.828,"3",11,"KIDNEY & URINARY",12423.828,1194
+"483",668,"Transurethral procedures w MCC",6548.5575,"1",11,"KIDNEY & URINARY",5868.93125,679.62625
+"484",669,"Transurethral procedures w CC",8264.937952,"1",11,"KIDNEY & URINARY",7332.066667,932.8712857
+"485",670,"Transurethral procedures w/o CC/ MCC",7085.645,"1",11,"KIDNEY & URINARY",6163.371667,922.2733333
+"486",671,"Urethral procedures w CC/MCC",9382.84,"1",11,"KIDNEY & URINARY",7922.36,1460.48
+"487",672,"Urethral procedures w/o CC/MCC",18393.75,"3",11,"KIDNEY & URINARY",15461.38,2932.37
+"488",673,"Other kidney & urinary tract procedures w MCC",13050.71,"3",11,"KIDNEY & URINARY",11440.36,1610.35
+"489",674,"Other kidney & urinary tract procedures w CC",12351.48,"1",11,"KIDNEY & URINARY",10538.39333,1813.086667
+"490",682,"Renal failure w MCC",4181.968095,"1",11,"KIDNEY & URINARY",3572.878095,609.09
+"491",683,"Renal failure w CC",4057.518646,"1",11,"KIDNEY & URINARY",3420.050313,637.4683333
+"492",684,"Renal failure w/o CC/MCC",1914,"1",11,"KIDNEY & URINARY",1914,0
+"493",685,"Admit for renal dialysis",4553.53,"1",11,"KIDNEY & URINARY",4553.53,0
+"494",686,"Kidney & urinary tract neoplasms w MCC",3827.595,"1",11,"KIDNEY & URINARY",3232.22,595.375
+"495",687,"Kidney & urinary tract neoplasms w CC",1815.065,"1",11,"KIDNEY & URINARY",1815.065,0
+"496",688,"Kidney & urinary tract neoplasms w/o CC/MCC",0,"1",11,"KIDNEY & URINARY",0,0
+"497",689,"Kidney & urinary tract infections w MCC",4384.919524,"1",11,"KIDNEY & URINARY",3500.102857,884.8166667
+"498",690,"Kidney & urinary tract infections w/o MCC",3407.070675,"1",11,"KIDNEY & URINARY",2605.191786,801.8788889
+"499",691,"Urinary stones w esw lithotripsy w CC/MCC",16150.55,"3",11,"KIDNEY & URINARY",15860.55,290
+"500",692,"Urinary stones w esw lithotripsy w/o CC/MCC",15094,"3",11,"KIDNEY & URINARY",14750,344
+"501",693,"Urinary stones w/o esw lithotripsy w MCC",4361.355,"1",11,"KIDNEY & URINARY",3821.735,539.62
+"502",694,"Urinary stones w/o esw lithotripsy w/o MCC",5381.961246,"1",11,"KIDNEY & URINARY",4650.336389,731.6248571
+"503",695,"Kidney & urinary tract signs & symptoms w MCC",1825,"1",11,"KIDNEY & URINARY",1825,0
+"504",696,"Kidney & urinary tract signs & symptoms w/o MCC",6064.533333,"1",11,"KIDNEY & URINARY",5453.333333,611.2
+"505",697,"Urethral stricture ..................................",0,"1",11,"KIDNEY & URINARY",0,0
+"506",698,"Other kidney & urinary tract diagnoses w MCC",3647.716923,"1",11,"KIDNEY & URINARY",2887.716923,760
+"507",699,"Other kidney & urinary tract diagnoses w CC",4454.753843,"1",11,"KIDNEY & URINARY",3582.882593,871.87125
+"508",700,"Other kidney & urinary tract diagnoses w/o CC/MCC",4038.785,"1",11,"KIDNEY & URINARY",3437.14,601.645
+"509",707,"Major male pelvic procedures w CC/ MCC",19282.22392,"3",12,"MALE REPRODUCTIVE",16515.64471,2766.579211
+"510",708,"Major male pelvic procedures w/o CC/ MCC",19036.05904,"3",12,"MALE REPRODUCTIVE",16108.43849,2927.620543
+"511",709,"Penis procedures w CC/MCC",20899.17,"3",12,"MALE REPRODUCTIVE",17761.42,3137.75
+"512",710,"Penis procedures w/o CC/MCC",2956.8,"1",12,"MALE REPRODUCTIVE",0,2956.8
+"513",711,"Testes procedures w CC/MCC",19673.535,"3",12,"MALE REPRODUCTIVE",17879,1794.535
+"514",712,"Testes procedures w/o CC/MCC",5622.41,"1",12,"MALE REPRODUCTIVE",4663.97,958.44
+"515",713,"Transurethral prostatectomy w CC/ MCC",11150.65003,"1",12,"MALE REPRODUCTIVE",9863.250556,1287.399474
+"516",714,"Transurethral prostatectomy w/o CC/ MCC",8639.04,"1",12,"MALE REPRODUCTIVE",6814.481176,1824.558824
+"517",715,"Other male reproductive system O.R. proc for malignancy w CC/MCC",4026,"1",12,"MALE REPRODUCTIVE",3802,224
+"518",716,"Other male reproductive system O.R. proc for malignancy w/o CC/MCC",9082,"1",12,"MALE REPRODUCTIVE",8090,992
+"519",717,"Other male reproductive system O.R. proc exc malignancy w CC/MCC",11551.71,"1",12,"MALE REPRODUCTIVE",9743.225,1808.485
+"520",718,"Other male reproductive system O.R. proc exc malignancy w/o CC/MCC",16719.07,"3",12,"MALE REPRODUCTIVE",14879.33,1839.74
+"521",722,"Malignancy, male reproductive system w MCC",13003.56,"3",12,"MALE REPRODUCTIVE",12272.87,730.69
+"522",723,"Malignancy, male reproductive system w CC",4356.306667,"1",12,"MALE REPRODUCTIVE",3559.68,796.6266667
+"523",726,"Benign prostatic hypertrophy w/o MCC",11691.91333,"1",12,"MALE REPRODUCTIVE",10497.05333,1194.86
+"524",727,"Inflammation of the male reproductive system w MCC",0,"1",12,"MALE REPRODUCTIVE",0,0
+"525",728,"Inflammation of the male reproductive system w/o MCC",6594.312,"1",12,"MALE REPRODUCTIVE",5156.652,1437.66
+"526",729,"Other male reproductive system diagnoses w CC/MCC",0,"1",12,"MALE REPRODUCTIVE",0,0
+"527",734,"Pelvic evisceration, rad hysterectomy & rad vulvectomy w CC/MCC",18901.844,"3",13,"FEMALE REPRODUCTIVE",15984.972,2916.872
+"528",735,"Pelvic evisceration, rad hysterectomy & rad vulvectomy w/o CC/MCC",21648.19,"3",13,"FEMALE REPRODUCTIVE",18256.5675,3391.6225
+"529",736,"Uterine & adnexa proc for ovarian or adnexal malignancy w MCC",21471.08,"3",13,"FEMALE REPRODUCTIVE",18624.23667,2846.843333
+"530",737,"Uterine & adnexa proc for ovarian or adnexal malignancy w CC",16544.58429,"3",13,"FEMALE REPRODUCTIVE",14049.64,2494.944286
+"531",738,"Uterine & adnexa proc for ovarian or adnexal malignancy w/o CC/MCC",13756.3575,"3",13,"FEMALE REPRODUCTIVE",11697.6525,2058.705
+"532",739,"Uterine,adnexa proc for non-ovarian/ adnexal malig w MCC",22327.6,"3",13,"FEMALE REPRODUCTIVE",18847.55,3480.05
+"533",740,"Uterine,adnexa proc for non-ovarian/ adnexal malig w CC",19435.09333,"3",13,"FEMALE REPRODUCTIVE",16543.88067,2891.212667
+"534",741,"Uterine,adnexa proc for non-ovarian/ adnexal malig w/o CC/MCC",16146.75778,"3",13,"FEMALE REPRODUCTIVE",13558.00222,2588.755556
+"535",742,"Uterine & adnexa proc for non-malignancy w CC/MCC",16788.34123,"3",13,"FEMALE REPRODUCTIVE",14476.40409,2311.937143
+"536",743,"Uterine & adnexa proc for non-malignancy w/o CC/MCC",15537.79005,"3",13,"FEMALE REPRODUCTIVE",13653.62929,1884.160761
+"537",744,"D&C, conization, laparascopy & tubal interruption w CC/MCC",8448.5,"1",13,"FEMALE REPRODUCTIVE",7411.508889,1036.991111
+"538",745,"D&C, conization, laparascopy & tubal interruption w/o CC/MCC",5104.275,"1",13,"FEMALE REPRODUCTIVE",4530.925,573.35
+"539",746,"Vagina, cervix & vulva procedures w CC/MCC",13590.095,"3",13,"FEMALE REPRODUCTIVE",11498.8625,2091.2325
+"540",747,"Vagina, cervix & vulva procedures w/o CC/MCC",11968.52,"1",13,"FEMALE REPRODUCTIVE",10052.14778,1916.372222
+"541",748,"Female reproductive system reconstructive procedures",16582.75,"3",13,"FEMALE REPRODUCTIVE",15309.58,1273.17
+"542",749,"Other female reproductive system O.R. procedures w CC/MCC",12586.255,"1",13,"FEMALE REPRODUCTIVE",9551.195,3035.06
+"543",750,"Other female reproductive system O.R. procedures w/o CC/MCC",8575.745,"1",13,"FEMALE REPRODUCTIVE",7126.675,1449.07
+"544",754,"Malignancy, female reproductive system w MCC",0,"1",13,"FEMALE REPRODUCTIVE",0,0
+"545",755,"Malignancy, female reproductive system w CC",6512.04,"1",13,"FEMALE REPRODUCTIVE",5657.34,854.7
+"546",756,"Malignancy, female reproductive system w/o CC/MCC",0,"1",13,"FEMALE REPRODUCTIVE",0,0
+"547",757,"Infections, female reproductive system w MCC",1719.78,"1",13,"FEMALE REPRODUCTIVE",1719.78,0
+"548",758,"Infections, female reproductive system w CC",0,"1",13,"FEMALE REPRODUCTIVE",0,0
+"549",759,"Infections, female reproductive system w/o CC/MCC",6686.185,"1",13,"FEMALE REPRODUCTIVE",6092.185,594
+"550",760,"Menstrual & other female reproductive system disorders w CC/MCC",0,"1",13,"FEMALE REPRODUCTIVE",0,0
+"551",761,"Menstrual & other female reproductive system disorders w/o CC/MCC",4678.775,"1",13,"FEMALE REPRODUCTIVE",3891.485,787.29
+"552",765,"Cesarean section w CC/MCC .............",7874.313634,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",6659.155833,1215.1578
+"553",766,"Cesarean section w/o CC/MCC ..........",7235.891095,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",6153.406255,1082.48484
+"554",767,"Vaginal delivery w sterilization &/or D&C",5184.471199,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",4307.303896,877.1673034
+"555",768,"Vaginal delivery w O.R. proc except steril &/or D&C",4841.697222,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",4200.666667,641.0305556
+"556",769,"Postpartum & post abortion diagnoses w O.R. procedure",10015.12401,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",8820.696154,1194.427857
+"557",770,"Abortion w D&C, aspiration curettage or hysterotomy",5818.208472,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",5014.782222,803.42625
+"558",774,"Vaginal delivery w complicating diagnoses",3327.361754,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",2839.411111,487.9506429
+"559",775,"Vaginal delivery w/o complicating diagnoses",4308.121239,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",3852.886667,455.2345727
+"560",776,"Postpartum & post abortion diagnoses w/o O.R. procedure",3302.836667,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",3128.836667,174
+"561",777,"Ectopic pregnancy",10951.13667,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",9412.19,1538.946667
+"562",778,"Threatened abortion",984.68,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",0,984.68
+"563",779,"Abortion w/o D&C",330.99,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",0,330.99
+"564",780,"False labor",0,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",0,0
+"565",781,"Other antepartum diagnoses w medical complications",6890.314718,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",5741.719333,1148.595385
+"566",782,"Other antepartum diagnoses w/o medical complications",4990.47,"1",14,"PREGNANCY, CHILDBIRTH AND THE PUERPERIUM",4152.85,837.62
+"567",789,"Neonates, died or transferred to another acute care facility",9486.469091,"1",15,"NEONATAL",4112.359091,5374.11
+"568",790,"Extreme immaturity or respiratory distress syndrome, neonate",8976.131268,"1",15,"NEONATAL",6361.399268,2614.732
+"569",791,"Prematurity w major problems ............",3565.166452,"1",15,"NEONATAL",2059.046452,1506.12
+"570",792,"Prematurity w/o major problems .........",530.941,"1",15,"NEONATAL",530.941,0
+"571",793,"Full term neonate w major problems ..",4964.413902,"1",15,"NEONATAL",2669.525152,2294.88875
+"572",794,"Neonate w other significant problems",2021.705616,"1",15,"NEONATAL",720.9656164,1300.74
+"573",795,"Normal newborn",2863.116788,"1",15,"NEONATAL",478.4267879,2384.69
+"574",799,"Splenectomy w MCC",7279.01,"1",16,"SPLEEN & BLOOD",6069.55,1209.46
+"575",800,"Splenectomy w CC",16101.18083,"3",16,"SPLEEN & BLOOD",13531.0975,2570.083333
+"576",801,"Splenectomy w/o CC/MCC",16429.6,"3",16,"SPLEEN & BLOOD",14035.17,2394.43
+"577",802,"Other O.R. proc of the blood & blood forming organs w MCC",3124.69,"1",16,"SPLEEN & BLOOD",2527.89,596.8
+"578",803,"Other O.R. proc of the blood & blood forming organs w CC",13101.98743,"3",16,"SPLEEN & BLOOD",11223.95143,1878.036
+"579",804,"Other O.R. proc of the blood & blood forming organs w/o CC/MCC",11918.56333,"1",16,"SPLEEN & BLOOD",10448.19,1470.373333
+"580",808,"Major hematol/immun diag exc sickle cell crisis & coagul w MCC",2764.3925,"1",16,"SPLEEN & BLOOD",2245.4325,518.96
+"581",809,"Major hematol/immun diag exc sickle cell crisis & coagul w CC",1822.561,"1",16,"SPLEEN & BLOOD",1503.081,319.48
+"582",810,"Major hematol/immun diag exc sickle cell crisis & coagul w/o CC/MCC",2441.218,"1",16,"SPLEEN & BLOOD",1847.898,593.32
+"583",811,"Red blood cell disorders w MCC",4830.188333,"1",16,"SPLEEN & BLOOD",3520.258333,1309.93
+"584",812,"Red blood cell disorders w/o MCC",3244.257088,"1",16,"SPLEEN & BLOOD",2425.92931,818.3277778
+"585",813,"Coagulation disorders",7013.84,"1",16,"SPLEEN & BLOOD",6056.84,957
+"586",814,"Reticuloendothelial & immunity disorders w MCC",2991.6,"1",16,"SPLEEN & BLOOD",2991.6,0
+"587",815,"Reticuloendothelial & immunity disorders w CC",3489.6475,"1",16,"SPLEEN & BLOOD",3489.6475,0
+"588",816,"Reticuloendothelial & immunity disorders w/o CC/MCC",2720.91,"1",16,"SPLEEN & BLOOD",2720.91,0
+"589",820,"Lymphoma & leukemia w major O.R. procedure w MCC",17722.89,"3",17,"LYMPHATIC",14950.26,2772.63
+"590",821,"Lymphoma & leukemia w major O.R. procedure w CC",14192.42571,"3",17,"LYMPHATIC",12145.50571,2046.92
+"591",822,"Lymphoma & leukemia w major O.R. procedure w/o CC/MCC",16058.084,"3",17,"LYMPHATIC",13210.479,2847.605
+"592",823,"Lymphoma & non-acute leukemia w other O.R. proc w MCC",11576.3155,"1",17,"LYMPHATIC",9588.6875,1987.628
+"593",824,"Lymphoma & non-acute leukemia w other O.R. proc w CC",9384.180794,"1",17,"LYMPHATIC",7828.102222,1556.078571
+"594",825,"Lymphoma & non-acute leukemia w other O.R. proc w/o CC/MCC",13604.68,"3",17,"LYMPHATIC",11631.3725,1973.3075
+"595",826,"Myeloprolif disord or poorly diff neopl w maj O.R. proc w MCC",4717.07,"1",17,"LYMPHATIC",3585.17,1131.9
+"596",827,"Myeloprolif disord or poorly diff neopl w maj O.R. proc w CC",18537.85095,"3",17,"LYMPHATIC",15560.93667,2976.914286
+"597",828,"Myeloprolif disord or poorly diff neopl w maj O.R. proc w/o CC/MCC",19335.1675,"3",17,"LYMPHATIC",16757.465,2577.7025
+"598",829,"Myeloprolif disord or poorly diff neopl w other O.R. proc w CC/MCC",17079.542,"3",17,"LYMPHATIC",14537.26,2542.282
+"599",834,"Acute leukemia w/o major O.R. procedure w MCC",6690.758167,"1",17,"LYMPHATIC",5844.214167,846.544
+"600",835,"Acute leukemia w/o major O.R. procedure w CC",9124.578333,"1",17,"LYMPHATIC",7224.735,1899.843333
+"601",836,"Acute leukemia w/o major O.R. procedure w/o CC/MCC",0,"1",17,"LYMPHATIC",0,0
+"602",837,"Chemo w acute leukemia as sdx or w high dose chemo agent w MCC",4298.567778,"1",17,"LYMPHATIC",3567.877778,730.69
+"603",838,"Chemo w acute leukemia as sdx w CC or high dose chemo agent",1828.15,"1",17,"LYMPHATIC",1828.15,0
+"604",839,"Chemo w acute leukemia as sdx w/o CC/MCC",2007.1375,"1",17,"LYMPHATIC",1658.94,348.1975
+"605",840,"Lymphoma & non-acute leukemia w MCC",7883.556494,"1",17,"LYMPHATIC",6760.613636,1122.942857
+"606",841,"Lymphoma & non-acute leukemia w CC",3128.543571,"1",17,"LYMPHATIC",2672.343571,456.2
+"607",842,"Lymphoma & non-acute leukemia w/o CC/MCC",4005.3485,"1",17,"LYMPHATIC",3205.156,800.1925
+"608",843,"Other myeloprolif dis or poorly diff neopl diag w MCC",5033.055,"1",17,"LYMPHATIC",4188.455,844.6
+"609",844,"Other myeloprolif dis or poorly diff neopl diag w CC",3952.597778,"1",17,"LYMPHATIC",3266.357778,686.24
+"610",845,"Other myeloprolif dis or poorly diff neopl diag w/o CC/MCC",5482.23,"1",17,"LYMPHATIC",4408.05,1074.18
+"611",846,"Chemotherapy w/o acute leukemia as secondary diagnosis w MCC",2025.19,"1",17,"LYMPHATIC",2025.19,0
+"612",847,"Chemotherapy w/o acute leukemia as secondary diagnosis w CC",6486.822,"1",17,"LYMPHATIC",4638.402,1848.42
+"613",848,"Chemotherapy w/o acute leukemia as secondary diagnosis w/o CC/MCC",673.19,"1",17,"LYMPHATIC",0,673.19
+"614",849,"Radiotherapy .......................................",9630.23,"1",17,"LYMPHATIC",8500.64,1129.59
+"615",853,"Infectious & parasitic diseases w O.R. procedure w MCC",16288.40436,"3",18,"INFECTION",13870.1648,2418.239554
+"616",854,"Infectious & parasitic diseases w O.R. procedure w CC",9105.454038,"1",18,"INFECTION",7922.933472,1182.520566
+"617",856,"Postoperative or post-traumatic infections w O.R. proc w MCC",12919.23176,"3",18,"INFECTION",11111.05536,1808.1764
+"618",857,"Postoperative or post-traumatic infections w O.R. proc w CC",17870.77504,"3",18,"INFECTION",15308.18229,2562.592759
+"619",858,"Postoperative or post-traumatic infections w O.R. proc w/o CC/MCC",7991.837636,"1",18,"INFECTION",6896.823636,1095.014
+"620",862,"Postoperative & post-traumatic infections w MCC",4670.89583,"1",18,"INFECTION",3490.61383,1180.282
+"621",863,"Postoperative & post-traumatic infections w/o MCC",4758.092227,"1",18,"INFECTION",3700.1295,1057.962727
+"622",864,"Fever of unknown origin",2616.667917,"1",18,"INFECTION",1973.13125,643.5366667
+"623",865,"Viral illness w MCC",3052.873333,"1",18,"INFECTION",3052.873333,0
+"624",866,"Viral illness w/o MCC",2828.34,"1",18,"INFECTION",2668.34,160
+"625",867,"Other infectious & parasitic diseases diagnoses w MCC",769.7525,"1",18,"INFECTION",769.7525,0
+"626",868,"Other infectious & parasitic diseases diagnoses w CC",2836.724286,"1",18,"INFECTION",2015.744286,820.98
+"627",869,"Other infectious & parasitic diseases diagnoses w/o CC/MCC",4066.37375,"1",18,"INFECTION",2320.64375,1745.73
+"628",870,"Septicemia w MV 96+ hours ...............",4938.553333,"1",18,"INFECTION",3996.133333,942.42
+"629",871,"Septicemia w/o MV 96+ hours w MCC",4508.024494,"1",18,"INFECTION",3532.691161,975.3333333
+"630",872,"Septicemia w/o MV 96+ hours w/o MCC",3974.874065,"1",18,"INFECTION",3219.355176,755.5188889
+"631",876,"O.R. procedure w principal diagnoses of mental illness",7781.75119,"1",19,"MENTAL ILLNESS",6850.142857,931.6083333
+"632",880,"Acute adjustment reaction & psychosocial dysfunction",171.87,"1",19,"MENTAL ILLNESS",171.87,0
+"633",881,"Depressive neuroses",3352.565,"1",19,"MENTAL ILLNESS",2619.49,733.075
+"634",882,"Neuroses except depressive",0,"1",19,"MENTAL ILLNESS",0,0
+"635",883,"Disorders of personality & impulse control",0,"1",19,"MENTAL ILLNESS",0,0
+"636",884,"Organic disturbances & mental retardation",3687.665,"1",19,"MENTAL ILLNESS",527.095,3160.57
+"637",885,"Psychoses",3921.226667,"1",19,"MENTAL ILLNESS",1623.31,2297.916667
+"638",886,"Behavioral & developmental disorders",0,"1",19,"MENTAL ILLNESS",0,0
+"639",887,"Other mental disorder diagnoses",0,"1",19,"MENTAL ILLNESS",0,0
+"640",894,"Alcohol/drug abuse or dependence, left ama",321.76,"1",20,"SUBSTANCE ABUSE",321.76,0
+"641",896,"Alcohol/drug abuse or dependence w/o rehabilitation therapy w MCC",0,"1",20,"SUBSTANCE ABUSE",0,0
+"642",897,"Alcohol/drug abuse or dependence w/o rehabilitation therapy w/o MCC",2299.97,"1",20,"SUBSTANCE ABUSE",1703.17,596.8
+"643",901,"Wound debridements for injuries w MCC",33057.71667,"3",21,"INJURY, TOXIC EFFECTS",27679.76333,5377.953333
+"644",902,"Wound debridements for injuries w CC",16353.2575,"3",21,"INJURY, TOXIC EFFECTS",13401.3475,2951.91
+"645",903,"Wound debridements for injuries w/o CC/MCC",11888.892,"1",21,"INJURY, TOXIC EFFECTS",10188.734,1700.158
+"646",906,"Hand procedures for injuries ...............",19737.0425,"3",21,"INJURY, TOXIC EFFECTS",16808.72125,2928.32125
+"647",907,"Other O.R. procedures for injuries w MCC",16893.47631,"3",21,"INJURY, TOXIC EFFECTS",14200.41455,2693.061765
+"648",908,"Other O.R. procedures for injuries w CC",13605.36099,"3",21,"INJURY, TOXIC EFFECTS",11652.92708,1952.433902
+"649",909,"Other O.R. procedures for injuries w/o CC/MCC",13220.08873,"3",21,"INJURY, TOXIC EFFECTS",11096.34167,2123.747059
+"650",913,"Traumatic injury w MCC ......................",160.88,"1",21,"INJURY, TOXIC EFFECTS",160.88,0
+"651",914,"Traumatic injury w/o MCC ...................",6633,"1",21,"INJURY, TOXIC EFFECTS",6013,620
+"652",915,"Allergic reactions w MCC ....................",351.21,"1",21,"INJURY, TOXIC EFFECTS",351.21,0
+"653",916,"Allergic reactions w/o MCC .................",0,"1",21,"INJURY, TOXIC EFFECTS",0,0
+"654",917,"Poisoning & toxic effects of drugs w MCC",5159.827143,"1",21,"INJURY, TOXIC EFFECTS",3414.097143,1745.73
+"655",918,"Poisoning & toxic effects of drugs w/o MCC",4253.175,"1",21,"INJURY, TOXIC EFFECTS",2213.175,2040
+"656",919,"Complications of treatment w MCC ....",5170.808833,"1",21,"INJURY, TOXIC EFFECTS",4270.3755,900.4333333
+"657",920,"Complications of treatment w CC .......",5482.003364,"1",21,"INJURY, TOXIC EFFECTS",4435.181364,1046.822
+"658",921,"Complications of treatment w/o CC/ MCC",4128.4425,"1",21,"INJURY, TOXIC EFFECTS",3162.995833,965.4466667
+"659",922,"Other injury, poisoning & toxic effect diag w MCC",1837.445,"1",21,"INJURY, TOXIC EFFECTS",1837.445,0
+"660",923,"Other injury, poisoning & toxic effect diag w/o MCC",1593.16,"1",21,"INJURY, TOXIC EFFECTS",1593.16,0
+"661",927,"Extensive burns or full thickness burns w MV 96+ hrs w skin graft",61064.86,"2",22,"BURNS",52285.1275,8779.7325
+"662",928,"Full thickness burn w skin graft or inhal inj w CC/MCC",12274.97333,"1",22,"BURNS",10606.51667,1668.456667
+"663",929,"Full thickness burn w skin graft or inhal inj w/o CC/MCC",12463.31333,"1",22,"BURNS",10850.89333,1612.42
+"664",934,"Full thickness burn w/o skin grft or inhal inj",0,"1",22,"BURNS",0,0
+"665",935,"Non-extensive burns",18180.45,"3",22,"BURNS",16746.36667,1434.083333
+"666",939,"O.R. proc w diagnoses of other contact w health services w MCC",31027.57667,"3",23,"ALL OTHER",25620.47667,5407.1
+"667",940,"O.R. proc w diagnoses of other contact w health services w CC",16987.76,"3",23,"ALL OTHER",15259.04308,1728.716923
+"668",941,"O.R. proc w diagnoses of other contact w health services w/o CC/MCC",22923.73806,"3",23,"ALL OTHER",20105.63556,2818.1025
+"669",945,"Rehabilitation w CC/MCC",2825.766,"1",23,"ALL OTHER",2825.766,0
+"670",946,"Rehabilitation w/o CC/MCC",951.55,"1",23,"ALL OTHER",951.55,0
+"671",947,"Signs & symptoms w MCC",3354.1175,"1",23,"ALL OTHER",2610.7275,743.39
+"672",948,"Signs & symptoms w/o MCC",3746.943167,"1",23,"ALL OTHER",2779.779167,967.164
+"673",949,"Aftercare w CC/MCC",2847.11,"1",23,"ALL OTHER",2116.87,730.24
+"674",950,"Aftercare w/o CC/MCC",9763.06,"1",23,"ALL OTHER",7995.47,1767.59
+"675",951,"Other factors influencing health status",882.32,"1",23,"ALL OTHER",882.32,0
+"676",955,"Craniotomy for multiple significant trauma",20193.73625,"3",24,"TRAUMA",17149.76,3043.97625
+"677",956,"Limb reattachment, hip & femur proc for multiple significant trauma",26278.72466,"3",24,"TRAUMA",22284.02366,3994.701
+"678",957,"Other O.R. procedures for multiple significant trauma w MCC",30113.95227,"3",24,"TRAUMA",25753.84227,4360.11
+"679",958,"Other O.R. procedures for multiple significant trauma w CC",29932.12154,"3",24,"TRAUMA",25122.41458,4809.706957
+"680",963,"Other multiple significant trauma w MCC",11526.40357,"1",24,"TRAUMA",9352.798571,2173.605
+"681",964,"Other multiple significant trauma w CC",8562.218857,"1",24,"TRAUMA",7075.272857,1486.946
+"682",965,"Other multiple significant trauma w/o CC/MCC",2203.235,"1",24,"TRAUMA",1781.065,422.17
+"683",970,"HIV w extensive O.R. procedure w/o MCC",10575.62,"1",25,"HIV",7654.66,2920.96
+"684",974,"HIV w major related condition w MCC",9140.993333,"1",25,"HIV",6391.183333,2749.81
+"685",975,"HIV w major related condition w CC",4604.095,"1",25,"HIV",4604.095,0
+"686",976,"HIV w major related condition w/o CC/MCC",0,"1",25,"HIV",0,0
+"687",977,"HIV w or w/o other related condition",0,"1",25,"HIV",0,0
