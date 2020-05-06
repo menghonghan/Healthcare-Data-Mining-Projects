@@ -1,2 +1,2 @@
 # Healthcare-Data-Mining-Projects
-Data mining projects include analysis of patient and insurance claim data.
+Data mining projects include analysis of patient, provider and insurance claim data.
