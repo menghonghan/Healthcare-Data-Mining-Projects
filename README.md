@@ -8,5 +8,5 @@ https://github.com/menghonghan/Healthcare-Data-Mining-Projects/blob/master/Data%
 
 
 
-# Healthcare-Data-Mining-Projects
+# Healthcare Data Mining Projects
 Data mining projects include analysis of patient, provider and insurance claim data.
