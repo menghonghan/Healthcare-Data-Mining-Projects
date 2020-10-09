@@ -1,7 +1,7 @@
 
 # Data Scientist Intern Projects at MedBlob
 
-### o Predicted risk scores of 10 chronic diseases in United States with NHANES data, extracted demography, symptom, lab/examination indicator, comorbidity features, built a cost-sensitive model pipeline (MetaCost, LR, XGBtree), visualized top 5 important features individually by Python
+#### o Predicted risk scores of 10 chronic diseases in United States with NHANES data, extracted demography, symptom, lab/examination indicator, comorbidity features, built a cost-sensitive model pipeline (MetaCost, LR, XGBtree), visualized top 5 important features individually by Python
 
 
 
@@ -24,7 +24,7 @@ https://github.com/menghonghan/Healthcare-Data-Mining-Projects/blob/master/Data%
 
 
 
-### o Lifebook Platform Architecture Proposal: Designed proposal with three modules: data acquisition, data integration and storage, data analysis and service, and planned the function setting, community building, privacy and profit model.
+#### o Lifebook Platform Architecture Proposal: Designed proposal with three modules: data acquisition, data integration and storage, data analysis and service, and planned the function setting, community building, privacy and profit model.
 
 
 
